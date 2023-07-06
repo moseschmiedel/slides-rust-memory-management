@@ -1,19 +1,19 @@
 ---
 theme: academic
 themeConfig:
-    paginationX: r
-    paginationY: b
+  paginationX: r
+  paginationY: b
 class: text-center
 highlighter: shiki
 lineNumbers: true
 info: |
-    ## Slides for Talk about Memory Management in Rust
+  ## Slides for Talk about Memory Management in Rust
 drawings:
   persist: false
 fonts:
-    sans: "Source Sans Pro"
-    serif: "Source Serif Pro"
-    mono: "JuliaMono"
+  sans: Source Sans Pro
+  serif: Source Serif Pro
+  mono: JuliaMono
 title: Rusted Memory Management
 layout: cover
 coverAuthor: Mose Schmiedel
@@ -25,6 +25,13 @@ hideInToc: true
 ---
 
 # Rusted Memory Management
+
+<!--
+- thank you for joining my presentation about `Rusted Memory Management`
+- please save your questions for the end
+- slide number are in bottom right corner ->
+    may be used for reference when asking a question
+-->
 
 ---
 hideInToc: true

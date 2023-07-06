@@ -1,5 +1,6 @@
 # Why do we need Memory Management?
 
+<v-click>
 <div class="flex w-full">
 <div class="px-2 pb-2 bg-green-600 mt-4 rounded border-gray-600 border-2">
 <strong class="text-white">Memory</strong>
@@ -19,6 +20,7 @@ let foo = 1;
 
 </div>
 </div>
+</v-click>
 
 <style>
 code {
@@ -28,9 +30,10 @@ code {
 </style>
 
 <!--
-1. Picture of RAM (Block of Memory)
-2. declare variable
-3. use memory for variable *(allocation)*
+1. imagine we are writing application
+2. need a variable -> declare variable
+3. variable needs a place to store data -> memory
+3. *(allocation)*
 4. declare another variable
 3. allocate more memory
 3. memory cannot get reused because it's only declared when we need memory,
