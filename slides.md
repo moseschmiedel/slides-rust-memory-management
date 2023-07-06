@@ -80,11 +80,11 @@ hideInToc: true
 </div>
 
 <!--
-1. What is **memory management**?<br>
+1. What is **memory management**?
 2. Every computer system with a limited amount of memory needs to manage
     this memory, so that it knows when specific parts of the memory may
     be reused.
-3. What can we learn from **Rust** about memory management?<br>
+3. What can we learn from **Rust** about memory management?
 4. By following some simple software design rules we can enable
     the compiler to solve memory management for us!
 -->
