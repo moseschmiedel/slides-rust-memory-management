@@ -18,10 +18,10 @@ title: Rusted Memory Management
 layout: cover
 coverAuthor: Mose Schmiedel
 coverDate: 7/7/2023
-hideInToc: true
 coverBackgroundUrl: ./assets/background2.jpg
 coverBackgroundSource: Georges Grondin, Public domain, via Wikimedia Commons
 coverBackgroundSourceUrl: https://upload.wikimedia.org/wikipedia/commons/2/26/Rusty_wall.jpg
+hideInToc: true
 ---
 
 # Rusted Memory Management
@@ -30,9 +30,16 @@ coverBackgroundSourceUrl: https://upload.wikimedia.org/wikipedia/commons/2/26/Ru
 hideInToc: true
 ---
 
-# Table of contents
+# Outline
 
 <Toc />
+
+<div class="mt-10">
+
+## Key Questions
+- What is **memory management**?
+- What can we learn from **Rust** about memory management?
+</div>
 
 ---
 src: ./pages/why-memory-management.md
@@ -51,8 +58,29 @@ src: ./pages/rust-memory-management.md
 ---
 
 ---
+hideInToc: true
+---
 
-# Takeaways
+<div class="flex flex-column w-full h-full items-center justify-around">
+<div class="text-3xl text-center font-bold">
+    <div v-click class="mt-8">
+    Memory management is essential for efficient hardware usage!
+    </div>
+    <div v-click class="mt-8">
+    Memory management is solvable at compile time!
+    </div>
+</div>
+</div>
+
+<!--
+1. What is **memory management**?<br>
+2. Every computer system with a limited amount of memory needs to manage
+    this memory, so that it knows when specific parts of the memory may
+    be reused.
+3. What can we learn from **Rust** about memory management?<br>
+4. By following some simple software design rules we can enable
+    the compiler to solve memory management for us!
+-->
 
 ---
 layout: index

@@ -78,6 +78,7 @@ int main() {
 
 ---
 title: c-main
+hideInToc: true
 ---
 
 # do-it-yourself
@@ -158,6 +159,7 @@ int main() {
 
 ---
 title: malloc incomplete_answer
+hideInToc: true
 ---
 
 # do-it-yourself
@@ -241,6 +243,7 @@ int main() {
 
 ---
 title: initialize incomplete_answer
+hideInToc: true
 ---
 
 # do-it-yourself
@@ -324,6 +327,7 @@ int main() {
 
 ---
 title: add_one(incomplete_answer)
+hideInToc: true
 ---
 
 # do-it-yourself
@@ -410,6 +414,7 @@ int main() {
 
 ---
 title: free(one)
+hideInToc: true
 ---
 
 # do-it-yourself
@@ -493,6 +498,7 @@ int main() {
 
 ---
 title: mul_by_two(incomplete_answer)
+hideInToc: true
 ---
 
 # do-it-yourself
@@ -579,6 +585,7 @@ int main() {
 
 ---
 title: printf
+hideInToc: true
 ---
 
 # do-it-yourself
@@ -665,6 +672,7 @@ int main() {
 
 ---
 title: free
+hideInToc: true
 ---
 
 # do-it-yourself
