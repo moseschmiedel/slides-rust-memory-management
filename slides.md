@@ -61,7 +61,10 @@ indexEntries:
         title: Java Logo
         uri: https://de.wikipedia.org/wiki/Datei:Java-Logo.svg
     -
-        title: C Logo, Qq1040058283, Public domain, via Wikimedia Commons
+        title: C Logo - Qq1040058283, Public domain, via Wikimedia Commons
         uri: https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png
+    -
+        title: Ferris - Karen Rustad Tölva, CC0, via Wikimedia Commons
+        uri: https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg
 indexRedirectType: external
 ---
