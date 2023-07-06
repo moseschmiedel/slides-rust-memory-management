@@ -1,0 +1,19 @@
+{
+  "name": "rust-memory-management",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.42.5",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-academic": "^1.1.3"
+  },
+  "devDependencies": {
+    "@iconify-json/tabler": "^1.1.80",
+    "@unocss/preset-icons": "^0.53.4"
+  }
+}
