@@ -68,7 +68,7 @@ hideInToc: true
 
 ```js{all}{lines: false}
 let foo = 1;
-let foo = 42;
+let bar = 42;
 ```
 
 <style>
@@ -124,7 +124,7 @@ hideInToc: true
 
 ```js{all}{lines: false}
 let foo = 1;
-let foo = 42;
+let bar = 42;
 ```
 <div class="self-center w-full h-10 text-center i-tabler-dots-vertical"/>
 
