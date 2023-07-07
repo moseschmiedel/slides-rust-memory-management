@@ -136,7 +136,7 @@ layout: end
 </div>
 
 <style>
-ul {
+li {
     list-style-type: none;
 }
 </style>

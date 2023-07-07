@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # Rust's approach: Let the compiler do it!
 
 <div class="flex">
