@@ -1,8 +1,5 @@
 ---
 theme: academic
-themeConfig:
-  paginationX: r
-  paginationY: b
 class: text-center
 highlighter: shiki
 lineNumbers: true
