@@ -40,7 +40,7 @@
 </div>
 
 <figure class="ml-48">
-<img src="/Müllauto.JPG" class="w-72"/>
+<img src="/Muellauto.jpg" class="w-72"/>
 <figcaption class="w-72 text-sm italic text-center">Fig.7 - garbage collector</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ hideInToc: true
 </div>
 
 <figure class="ml-48">
-<img src="/Müllauto.JPG" class="w-72"/>
+<img src="/Muellauto.jpg" class="w-72"/>
 <figcaption class="w-72 text-sm italic text-center">Fig.7 - garbage collector</figcaption>
 </figure>
 
